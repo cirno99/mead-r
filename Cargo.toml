@@ -7,4 +7,6 @@ edition = "2021"
 
 [dependencies]
 morse = "0.1.0"
-clap = "3.2.21"
+clap = "3.2"
+anyhow = "1.0.38"
+rodio = "0"
